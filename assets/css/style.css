@@ -59,7 +59,7 @@ header nav ul li a {
 }
 
 header nav ul li a:hover {
-  background: #fce138;
+  background-color: rgba(255, 255, 56, 0.50);
   color: #024e76;
   border-radius: 15px;
   text-shadow: none;
